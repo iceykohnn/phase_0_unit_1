@@ -1,0 +1,23 @@
+.sidebar_list{
+	text-align: right;
+	font-weight: bold;
+	font-size: small
+}
+.middle{
+    margin: auto;
+  padding: 20px;
+  border: 1px solid #0;
+  background: #ffffff;
+}
+.Motivation{
+	text-align: center;
+	font-size: large
+	color:white;
+	background-color: black
+}
+.Lynn{position: absolute; 
+    bottom: 20px; 
+    left: 10px; 
+    background-color: red
+    
+}
