@@ -1,0 +1,23 @@
+body {
+	background-color: olive;
+}
+#container {
+	background-color: white;
+	font-style:italic;
+}
+#top {
+	margin:0px;
+	padding:15px;
+}
+#middle {
+	background-color: teal;
+	color: yellow;
+	padding:25px;
+}
+#bottom {
+	padding: 15px;
+}
+strong {
+	font-size:36px;
+	color: red;
+}
