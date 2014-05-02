@@ -33,3 +33,4 @@ I don't know. I am trying, but there is no declaration for it. I can't see the p
 I found it in the Network tab under the size column. I narrowed the search down to images and saw which one was the largest
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated? I don't know what you mean by the lowest hanging fruit.  But I have posted a link to a screenshot here of the analysis I made. If I were to guess what you mean, I would pick the html minify. If we minify the html we could save 1.1kb
 * 
+http://imgur.com/V8qtZBf   this is the link to the screenshot of my analysis
