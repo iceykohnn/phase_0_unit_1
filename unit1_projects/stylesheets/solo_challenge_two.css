@@ -1,0 +1,17 @@
+body {
+	background-color: #333;
+	padding: 50px 250px;
+	margin-right: 100px;
+}
+p {
+	background-color: #777;
+  font-size: 70px;
+  font-family: sans-serif;
+  font-weight: bold;
+  z-index: 2;
+
+}
+span {
+	font-size:36px;
+	color: #ace;
+}
