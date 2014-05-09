@@ -50,4 +50,19 @@ Shows you the status of files in the index versus the working directory. In my c
 - I would find the repo i'm looking for, and use it's name behind the git pull command
 - Commit locally
 I would modify the file, then use the git commit -m 'my commit message explaining the changes that I made'
+
 ## Release 5: Reflection
+What parts of your strategy worked? What problems did you face?
+---- I didn't really face any challenges on this one, I just had to find the definitions and make sure that I understood them, so that I could explain them.
+What questions did you have while coding? What resources did you find to help you answer them?
+----- This challenge wasn't really about coding, but the questions I faced while practicing were how to use bash to locate which files and folders I was in and what was available. I use pwd to find my location, and ls -la to show me what's in the folder I'm in .
+What concepts are you having trouble with, or did you just figure something out? If so, what?
+---- I'm not having much trouble with this aspect of the challenge. 
+Did you learn any new skills or tricks?
+---- Like I said, I learned how to use the pwd command and the ls -la command to show me where I'm at and list the contents of where I'm at. I like using git status often to show me what is going on in that particular file.
+How confident are you with each of the Learning Competencies?
+---- I'm prettty confident with this part of the challenge. I think with more practice using Git, I will feel better with it.
+Which parts of the challenge did you enjoy?
+---- There wasn't much to enjoy, just getting the explanations down pat.
+Which parts of the challenge did you find tedious?
+---- Using bash, and trying to find out how to navigate in it was necessary to understanding this challenge.
