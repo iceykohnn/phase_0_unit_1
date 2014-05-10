@@ -1,4 +1,4 @@
-// I worked [by myself, with:] on this challenge
+// I worked with:Marek P and Jon Young  on this challenge
 
 // Your mission description:
 // Grab the treasure
