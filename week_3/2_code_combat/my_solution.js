@@ -24,4 +24,8 @@
 // how many different ways the game could be played. The mission where I had to get the mushroom power up before
 // I could kill the enemy, was fun, but the one where I had to taunt the guard, and get him to line up so my 
 // archer could shoot him was the tough one. I was stuck on that one trying to get by the last two guards....
+<<<<<<< HEAD
 // but it was a grand way to look at Javascript. I had so much fun. 
+=======
+// but it was a grand way to look at Javascript. I had so much fun. 
+>>>>>>> 8f7a111596b4742f523d05956bd465e176f45cf8
