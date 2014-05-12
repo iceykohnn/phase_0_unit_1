@@ -1,4 +1,4 @@
-// I worked [by myself, with:] on this challenge
+// I worked with:Marek P and Jon Young  on this challenge
 
 // Your mission description:
 // Grab the treasure
@@ -87,4 +87,8 @@ indy.exitDungeon();
 // but I didn't know how. So I went with grabbing the treasure, and making it move 
 // one space to the right when grabbed. I don't think this code will work, however, because I didn't
 // because I don't think it will get past the grabTreasure command.  I didn't know how to 
+<<<<<<< HEAD
 // define that function.  But other than that, I am confident this would work.
+=======
+// define that function.  But other than that, I am confident this would work.
+>>>>>>> 779454c9077b0bfa2c39adc0e580da6c511c4ad5
