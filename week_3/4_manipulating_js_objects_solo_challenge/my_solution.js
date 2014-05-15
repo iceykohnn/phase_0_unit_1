@@ -12,6 +12,55 @@ var terah = {
   hairColor: "brown",
   eyeColor: "brown"
 }
+// Define adam
+var adam = {}
+
+// give adam the name "Adam"
+adam.name = 'Adam'
+// make adam terah's spouse
+
+terah.spouse=adam
+
+// change terah's weight to 125
+
+terah.weight= 125
+
+// delete the eyeColor property
+
+delete terah.eyeColor
+
+// terah's spouse property value  of terah's spouse should be terah (?) So make 
+// adam's spouse become terah
+
+adam.spouse= terah
+
+
+// add a new property to terah called children using object literal notation
+terah.children = {}
+
+// add a new property to terah.children with a value of Carson
+
+terah.children.carson = {name: "Carson"};
+
+//add a new property to terah.children with a name of Carter
+
+terah.children.carter = {name: "Carter"};
+
+//add a new property to terah.children with a name of Colton
+
+
+terah.children.colton = {name: "Colton"}
+
+// make adams kids into terahs kids
+
+
+adam.children = terah.children
+
+
+
+
+
+
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
@@ -46,21 +95,22 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
-
+var adam = {}
+adam.name = 'Adam'
+terah.spouse=adam
+terah.weight= 125
+delete terah.eyeColor
+adam.spouse= terah
+terah.children = {}
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// Figuring this one out was a little tough until I looked up the format that they wanted us to 
+// use, object literal notation. After that I knew how to figure out how to find the answer. 
 
 
 // __________________________________________
